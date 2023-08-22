@@ -4,7 +4,7 @@
 cURL Requests
 
 
-## Kullanım
+## Example Usage
 
 ```php
 <?php
